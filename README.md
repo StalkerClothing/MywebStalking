@@ -185,7 +185,4 @@
     <p>&copy; 2025 Stalker Clothing and Desing. Todos los derechos reservados.</p>
   </footer>
 </body>
-</html>![logo](https://github.com/user-attachments/assets/442a14d5-b0fb-4d97-aead-bf21d3d2c9da)
-![instagram_profile_image](https://github.com/user-attachments/assets/16b4b657-943f-442f-b2e6-1eda29b1ffb2)
-![facebook_profile_image](https://github.com/user-attachments/assets/d427e1f3-0f38-4f22-be62-b8b9148430a4)
-![logo](https://github.com/user-attachments/assets/ee0b7564-afbb-4203-b9e1-9f244a5bf22d)
+</html>
